@@ -1,4 +1,5 @@
-# DATA VISUALIZATION
+# PRODIGY_DS_01:
+# TASK-1: DATA VISUALIZATION
 
 ### **Objective**
 - The objective of this project is to analyze and visualize the distribution of a categorical or continuous variable.
